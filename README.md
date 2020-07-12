@@ -1,2 +1,2 @@
 # showcase
-This repository contains my code samples
+This repository contains my code samples for Python and SQL
